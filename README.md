@@ -160,4 +160,9 @@ Models were evaluated using:
 
 ---
 
-## 📁 Project Structure
+## 🧾 Conclusion
+This project demonstrates how machine learning can be effectively used to analyze crime data and predict potential hotspot regions using spatial and temporal features.
+
+By leveraging advanced models such as XGBoost and LightGBM, the system is capable of identifying high-risk areas with strong accuracy. This enables a shift from reactive to proactive crime management, helping law enforcement agencies allocate resources more efficiently and implement preventive strategies.
+
+Overall, the project highlights the importance of data-driven approaches in enhancing public safety and supports the development of intelligent systems for real-world problem solving.
